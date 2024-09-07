@@ -6,7 +6,7 @@ sites:
   - name: Flexnet
     url: https://flexnet.az
   - name: Azoptiknet
-    url: https://azoptiknet.az
+    url: https://azoptiknet.az/
 
 
 status-website:
