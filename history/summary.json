@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "Flexnet",
+    "url": "https://flexnet.az",
+    "icon": "https://icons.duckduckgo.com/ip3/flexnet.az.ico",
+    "slug": "flexnet",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 97,
-    "timeWeek": 97,
-    "timeMonth": 97,
-    "timeYear": 97,
+    "time": 632,
+    "timeDay": 632,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
     "dailyMinutesDown": {}
   }
 ]
