@@ -5,6 +5,8 @@ repo: UpT-mon # The name of this repository
 sites:
   - name: Flexnet
     url: https://flexnet.az
+  - name: Azoptiknet
+    url: https://azoptiknet.az
 
 
 status-website:
