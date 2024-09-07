@@ -3,8 +3,8 @@ owner: rasulovk # Your GitHub organization or username, where this repository li
 repo: UpT-mon # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Flexnet
+    url: https://flexnet.az
 
 
 status-website:
