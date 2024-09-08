@@ -4,19 +4,19 @@
     "url": "https://flexnet.az",
     "icon": "https://icons.duckduckgo.com/ip3/flexnet.az.ico",
     "slug": "flexnet",
-    "status": "up",
-    "uptime": "97.81%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 575,
-    "timeDay": 575,
-    "timeWeek": 575,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 581,
+    "timeDay": 545,
+    "timeWeek": 581,
+    "timeMonth": 581,
+    "timeYear": 581,
     "dailyMinutesDown": {
-      "2024-09-08": 23
+      "2024-09-08": 15
     }
   },
   {
@@ -31,12 +31,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 134,
-    "timeDay": 134,
+    "timeDay": 190,
     "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-09-08": 594,
+      "2024-09-08": 1179,
       "2024-09-07": 448
     }
   }
