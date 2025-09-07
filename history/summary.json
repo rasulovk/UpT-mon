@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/flexnet.az.ico",
     "slug": "flexnet",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "97.94%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.11%",
     "time": 795,
-    "timeDay": 1009,
-    "timeWeek": 1060,
-    "timeMonth": 1097,
+    "timeDay": 916,
+    "timeWeek": 1035,
+    "timeMonth": 1056,
     "timeYear": 795,
     "dailyMinutesDown": {
       "2025-09-03": 44,
@@ -62,12 +62,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 177,
-    "timeDay": 408,
-    "timeWeek": 200,
-    "timeMonth": 217,
+    "timeDay": 168,
+    "timeWeek": 210,
+    "timeMonth": 205,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-09-06": 84,
+      "2025-09-07": 99,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -430,8 +431,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 448
+      "2024-09-08": 1440
     }
   }
 ]
